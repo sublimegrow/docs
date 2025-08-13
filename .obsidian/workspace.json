@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "c2c992d8458543ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7362bcff67b895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47bb0f9d5430c42f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "how do folders work/Sublime Plants Diagram.png"
+              },
+              "icon": "lucide-image",
+              "title": "Sublime Plants Diagram"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a36fb19640fc70e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8d17b5a879bf16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16868ebea54168e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49dd73e6344d36cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c3f7acbd28f007c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a578baf24df7747e",
+    "type": "split",
+    "children": [
+      {
+        "id": "86879fbcdc3b8a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb239f2e95f6e1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "how do folders work/Sublime Plants Diagram.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sublime Plants Diagram"
+            }
+          },
+          {
+            "id": "cf53da09cffbc66a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "how do folders work/Sublime Plants Diagram.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sublime Plants Diagram"
+            }
+          },
+          {
+            "id": "a6af0ed771b5ac3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7491ddd27eedb248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "how do folders work/Sublime Plants Diagram.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sublime Plants Diagram"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16868ebea54168e1",
+  "lastOpenFiles": [
+    "how do folders work",
+    "this is a test!.md",
+    "how do folders work/Sublime Plants Diagram.png",
+    "README.md"
+  ]
+}
