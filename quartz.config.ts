@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Sublime Plants Docs",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

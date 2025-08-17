@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sublime Docs/Project Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Project Concept"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "6f4a1906d985891e",
   "lastOpenFiles": [
-    "Sublime Docs/Ethos & Vision.md",
     "index.md",
+    "Sublime Docs/Ethos & Vision.md",
     "Sublime Docs/Plant-by-Plant/Dieffenbachia Sublime.md",
     "Sublime Docs/test.md",
     "Sublime Docs/MVP",
