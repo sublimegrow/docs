@@ -35,7 +35,8 @@ jobs:
         with:
           switches: -avzr --delete
           path: quartz/public/
-          remote_path: /home/dh_fm8qv6/docs.sublimeplants.com/
-          remote_host: ${{ secrets.FTP_SERVER }}
-          remote_user: ${{ secrets.FTP_USERNAME }}
-          remote_key: ${{ secrets.FTP_SSH_KEY }}
+          remote_path: /var/www/sublime-docs/
+          remote_host: ${{ secrets.SSH_HOST }}
+          remote_user: ${{ secrets.SSH_USER }}
+          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          remote_port: ${{ secrets.SSH_PORT }}

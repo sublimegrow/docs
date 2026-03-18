@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "906b29314ed75c87",
+    "id": "a336d3df9dd490cc",
     "type": "split",
     "children": [
       {
-        "id": "1603674a6d324a3f",
+        "id": "988e632c042e4ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4a1906d985891e",
+            "id": "791059b8e3c66989",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sublime Docs/Project Concept.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Concept"
+              "title": "About"
             }
           }
         ]
@@ -27,20 +27,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "419e59a9482dd665",
+    "id": "ebbbaff86e90e238",
     "type": "split",
     "children": [
       {
-        "id": "9a3fcf8d09b2a212",
+        "id": "2046284112696811",
         "type": "tabs",
         "children": [
           {
-            "id": "30b5ec6acc8255c0",
+            "id": "1c0267d5c190c86d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "23df809565948e8f",
+            "id": "cd14381a796c5f8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "ae89b88613f3166e",
+            "id": "95d47a16e0ed9b35",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
-    "id": "c0623e481d3e0200",
+    "id": "34a4ec4d8a47eeb7",
     "type": "split",
     "children": [
       {
-        "id": "490d0d3c992764bb",
+        "id": "8291f302acabc7ed",
         "type": "tabs",
         "children": [
           {
-            "id": "bd3d123db209afe0",
+            "id": "6116ed424807a4e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0a00d3416877fb7e",
+            "id": "24e91ae1c01c7bf0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "177ebb871e297dc9",
+            "id": "a572383d05f73319",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +135,31 @@
             }
           },
           {
-            "id": "d756c53e3bb6b52a",
+            "id": "8c5e3a32b65dc7d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "53648266753958eb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -165,25 +176,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "6f4a1906d985891e",
+  "active": "791059b8e3c66989",
   "lastOpenFiles": [
+    "Hardware Future.md",
+    "Hardware Background.md",
     "index.md",
-    "Sublime Docs/Ethos & Vision.md",
-    "Sublime Docs/Plant-by-Plant/Dieffenbachia Sublime.md",
-    "Sublime Docs/test.md",
-    "Sublime Docs/MVP",
-    "Sublime Docs/Project Concept.md",
-    "What is Sublime Plants.md",
-    "Sublime Docs/Plant Care",
-    "Sublime Docs/Plant-by-Plant",
-    "Sublime Docs/Guides",
-    "Sublime Docs/Development Rationale",
-    "Sublime Docs/Meeting Notes",
-    "Sublime Docs",
-    "Welcome.md",
-    "create a link.md"
+    "About.md",
+    "Software Future.md",
+    "Software Background.md",
+    "Open Source.md",
+    "Software Plan.md",
+    "Ethos & Vision (# Edit conflict 2026-01-15 RA1qnfo #).md",
+    "Ethos & Vision (# Edit conflict 2026-01-15 LfL2LUR #).md"
   ]
 }
