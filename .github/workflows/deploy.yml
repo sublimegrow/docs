@@ -27,7 +27,7 @@ jobs:
         working-directory: ./quartz
 
       - name: Build Quartz site
-        run: npx quartz build --directory ../vault
+        run: npx quartz build --directory ../sublime-public
         working-directory: ./quartz
 
       - name: Deploy via rsync
